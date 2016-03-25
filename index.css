@@ -1,0 +1,10 @@
+body {
+  padding-top: 50px;
+}
+
+.transaction-info i { display: inline-block !important; }
+
+.transaction-info div {
+  margin-left: 50px;
+  float: right;
+}
